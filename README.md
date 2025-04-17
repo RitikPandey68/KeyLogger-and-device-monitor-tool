@@ -17,11 +17,23 @@ A Python-based tool to detect suspicious keylogger activity by:
 - Python 3.x
 - Required packages listed in `requirements.txt`
 
-## Usage
-Run the application using the command:
-```bash
-python main.py
-```
+## How to Run
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/RitikPandey68/KeyLogger-and-device-monitor-tool.git
+   ```
+2. Navigate to the project directory:
+   ```bash
+   cd KeyLogger-and-device-monitor-tool
+   ```
+3. Install the required packages:
+   ```bash
+   pip install -r requirements.txt
+   ```
+4. Run the application using the command:
+   ```bash
+   python main.py
+   ```
 
 ## License
 This project is licensed under the MIT License.
