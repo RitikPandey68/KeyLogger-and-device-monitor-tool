@@ -1,0 +1,323 @@
+2025-04-12 15:21:33,716 - WARNING - Permission denied for file: C:\BackUP\C\Root\New folder\New folder\Program\dcu3d34.dll
+2025-04-12 15:22:14,476 - WARNING - Permission denied for file: C:\BackUP\C\Root\New folder\New folder\Program\rebase.log
+2025-04-12 15:22:27,710 - WARNING - Permission denied for file: C:\BackUP\C\Root\New folder\New folder\Program\SpaACISn.dll
+2025-04-12 15:22:41,813 - WARNING - Permission denied for file: C:\BackUP\C\Root\New folder\New folder\Program\WormGear.dll
+2025-04-12 15:23:20,220 - WARNING - Permission denied for file: C:\BackUP\C\Root\New folder\sources\boot.wim
+2025-04-12 15:23:29,879 - WARNING - Permission denied for file: C:\BackUP\C\Root\New folder\sources\compatresources.dll
+2025-04-12 15:23:48,409 - WARNING - Permission denied for file: C:\BackUP\C\Root\Users\pande\Downloads\VNC-Viewer-7.6.0-Windows-64bit.exe
+2025-04-12 15:23:48,479 - WARNING - Permission denied for file: C:\BackUP\C\Root\Users\pande\Downloads\VNC-Viewer-7.6.0-Windows-64bit.exe
+2025-04-12 15:23:50,077 - WARNING - Permission denied for file: C:\BackUP\C\Root\New folder\New folder\Program\dcu3d34.dll
+2025-04-12 15:23:51,956 - WARNING - Permission denied for file: C:\gcc\bin\lto-dump.exe
+2025-04-12 15:23:56,895 - WARNING - Permission denied for file: C:\BackUP\C\Root\New folder\New folder\Program\rebase.log
+2025-04-12 15:23:57,756 - WARNING - Permission denied for file: C:\BackUP\C\Root\New folder\New folder\Program\SpaACISn.dll
+2025-04-12 15:23:58,360 - WARNING - Permission denied for file: C:\BackUP\C\Root\New folder\New folder\Program\WormGear.dll
+2025-04-12 15:24:15,982 - WARNING - Permission denied for file: C:\BackUP\C\Root\New folder\sources\boot.wim
+2025-04-12 15:24:24,727 - WARNING - Permission denied for file: C:\BackUP\C\Root\New folder\sources\compatresources.dll
+2025-04-12 15:24:44,560 - WARNING - Permission denied for file: C:\BackUP\C\Root\Users\pande\Downloads\VNC-Viewer-7.6.0-Windows-64bit.exe
+2025-04-12 15:24:44,673 - WARNING - Permission denied for file: C:\BackUP\C\Root\Users\pande\Downloads\VNC-Viewer-7.6.0-Windows-64bit.exe
+2025-04-12 15:24:45,572 - WARNING - Permission denied for file: C:\gcc\bin\lto-dump.exe
+2025-04-12 15:25:16,907 - WARNING - Permission denied for file: C:\gcc\lib\gcc\x86_64-w64-mingw32\13.2.0\include\c++\bits\deque.tcc
+2025-04-12 15:25:17,657 - WARNING - Permission denied for file: C:\gcc\lib\gcc\x86_64-w64-mingw32\13.2.0\include\c++\bits\deque.tcc
+2025-04-12 15:26:11,835 - WARNING - Permission denied for file: C:\gcc\libexec\gcc\x86_64-w64-mingw32\13.2.0\cc1.exe
+2025-04-12 15:26:12,295 - WARNING - Permission denied for file: C:\gcc\libexec\gcc\x86_64-w64-mingw32\13.2.0\cc1plus.exe
+2025-04-12 15:26:12,950 - WARNING - Permission denied for file: C:\gcc\libexec\gcc\x86_64-w64-mingw32\13.2.0\cc1.exe
+2025-04-12 15:26:13,026 - WARNING - Permission denied for file: C:\gcc\libexec\gcc\x86_64-w64-mingw32\13.2.0\lto1.exe
+2025-04-12 15:26:13,475 - WARNING - Permission denied for file: C:\gcc\libexec\gcc\x86_64-w64-mingw32\13.2.0\cc1plus.exe
+2025-04-12 15:26:14,069 - WARNING - Permission denied for file: C:\gcc\libexec\gcc\x86_64-w64-mingw32\13.2.0\lto1.exe
+2025-04-12 15:27:08,136 - ERROR - Failed to quarantine file C:\BackUP\C\Root\New folder\New folder\Program\rebase.log: [WinError 32] The process cannot access the file because it is being used by another process: 'C:\\BackUP\\C\\Root\\New folder\\New folder\\Program\\rebase.log' -> 'C:\\Users\\pande\\OneDrive - MSFT\\Desktop\\1st internship report\\quarantine\\rebase.log'
+2025-04-12 15:27:40,073 - WARNING - Permission denied for file: C:\gcc\share\info\gcc.info
+2025-04-12 15:27:40,200 - WARNING - Permission denied for file: C:\gcc\share\info\gccinstall.info
+2025-04-12 15:27:40,300 - WARNING - Permission denied for file: C:\gcc\share\info\gccint.info
+2025-04-12 15:27:40,623 - WARNING - Permission denied for file: C:\gcc\share\info\gcc.info
+2025-04-12 15:27:41,407 - WARNING - Permission denied for file: C:\gcc\share\man\man1\g++.1
+2025-04-12 15:27:41,669 - WARNING - Permission denied for file: C:\gcc\share\man\man1\gcc.1
+2025-04-12 15:27:43,700 - WARNING - Permission denied for file: C:\gcc\share\info\gccinstall.info
+2025-04-12 15:27:43,982 - WARNING - Permission denied for file: C:\gcc\share\info\gccint.info
+2025-04-12 15:27:44,463 - WARNING - Permission denied for file: C:\gcc\share\man\man1\g++.1
+2025-04-12 15:27:44,715 - WARNING - Permission denied for file: C:\gcc\share\man\man1\gcc.1
+2025-04-12 15:27:51,093 - ERROR - Failed to quarantine file C:\BackUP\C\Root\New folder\New folder\Program\WormGear.dll: [WinError 32] The process cannot access the file because it is being used by another process: 'C:\\BackUP\\C\\Root\\New folder\\New folder\\Program\\WormGear.dll' -> 'C:\\Users\\pande\\OneDrive - MSFT\\Desktop\\1st internship report\\quarantine\\WormGear.dll'
+2025-04-12 15:29:24,320 - WARNING - Permission denied for file: C:\Git_Project\Web-project\.git\hooks\pre-commit.sample
+2025-04-12 15:29:25,144 - WARNING - Permission denied for file: C:\Git_Project\Web-project\.git\hooks\pre-commit.sample
+2025-04-12 15:29:28,118 - WARNING - Permission denied for file: C:\msys64\uninstall.exe
+2025-04-12 15:29:28,145 - WARNING - Permission denied for file: C:\msys64\uninstall.exe
+2025-04-12 15:29:34,811 - WARNING - Permission denied for file: C:\msys64\ucrt64\bin\libisl-23.dll
+2025-04-12 15:29:34,813 - WARNING - Permission denied for file: C:\msys64\ucrt64\bin\libisl-23.dll
+2025-04-12 15:30:19,748 - WARNING - Permission denied for file: C:\msys64\ucrt64\include\zstd.h
+2025-04-12 15:30:19,748 - WARNING - Permission denied for file: C:\msys64\ucrt64\include\zstd.h
+2025-04-12 15:30:24,932 - WARNING - Permission denied for file: C:\msys64\ucrt64\include\c++\14.1.0\bits\deque.tcc
+2025-04-12 15:30:25,441 - WARNING - Permission denied for file: C:\msys64\ucrt64\include\c++\14.1.0\bits\deque.tcc
+2025-04-12 15:30:53,882 - WARNING - Permission denied for file: C:\msys64\ucrt64\include\isl\ast_build.h
+2025-04-12 15:30:53,900 - WARNING - Permission denied for file: C:\msys64\ucrt64\include\isl\ast_build.h
+2025-04-12 15:31:03,678 - WARNING - Permission denied for file: C:\msys64\ucrt64\lib\libisl.a
+2025-04-12 15:31:03,679 - WARNING - Permission denied for file: C:\msys64\ucrt64\lib\libisl.a
+2025-04-12 15:31:03,728 - WARNING - Permission denied for file: C:\msys64\ucrt64\lib\libisl.dll.a
+2025-04-12 15:31:03,732 - WARNING - Permission denied for file: C:\msys64\ucrt64\lib\libisl.dll.a
+2025-04-12 15:31:31,963 - WARNING - Permission denied for file: C:\msys64\ucrt64\lib\gcc\x86_64-w64-mingw32\14.1.0\plugin\include\target.def
+2025-04-12 15:31:31,965 - WARNING - Permission denied for file: C:\msys64\ucrt64\lib\gcc\x86_64-w64-mingw32\14.1.0\plugin\include\target.def
+2025-04-12 15:31:33,067 - WARNING - Permission denied for file: C:\msys64\ucrt64\lib\gcc\x86_64-w64-mingw32\14.1.0\plugin\include\tree-ssa-scopedtables.h
+2025-04-12 15:31:33,067 - WARNING - Permission denied for file: C:\msys64\ucrt64\lib\gcc\x86_64-w64-mingw32\14.1.0\plugin\include\tree-ssa-scopedtables.h
+2025-04-12 15:31:33,256 - WARNING - Permission denied for file: C:\msys64\ucrt64\lib\gcc\x86_64-w64-mingw32\14.1.0\plugin\include\tree-vectorizer.h
+2025-04-12 15:31:33,257 - WARNING - Permission denied for file: C:\msys64\ucrt64\lib\gcc\x86_64-w64-mingw32\14.1.0\plugin\include\tree-vectorizer.h
+2025-04-12 15:31:39,085 - WARNING - Permission denied for file: C:\msys64\ucrt64\share\locale\fr\LC_MESSAGES\binutils.mo
+2025-04-12 15:31:39,111 - WARNING - Permission denied for file: C:\msys64\ucrt64\share\locale\fr\LC_MESSAGES\gas.mo
+2025-04-12 15:31:39,134 - WARNING - Permission denied for file: C:\msys64\ucrt64\share\locale\fr\LC_MESSAGES\binutils.mo
+2025-04-12 15:31:39,145 - WARNING - Permission denied for file: C:\msys64\ucrt64\share\locale\fr\LC_MESSAGES\gas.mo
+2025-04-12 15:31:39,158 - WARNING - Permission denied for file: C:\msys64\ucrt64\share\locale\fr\LC_MESSAGES\ld.mo
+2025-04-12 15:31:39,158 - WARNING - Permission denied for file: C:\msys64\ucrt64\share\locale\fr\LC_MESSAGES\ld.mo
+2025-04-12 15:31:48,171 - WARNING - Permission denied for file: C:\msys64\usr\bin\cygcheck.exe
+2025-04-12 15:31:48,171 - WARNING - Permission denied for file: C:\msys64\usr\bin\cygcheck.exe
+2025-04-12 15:31:50,074 - WARNING - Permission denied for file: C:\msys64\usr\bin\fdisk.exe
+2025-04-12 15:31:50,074 - WARNING - Permission denied for file: C:\msys64\usr\bin\fdisk.exe
+2025-04-12 15:31:50,381 - WARNING - Permission denied for file: C:\msys64\usr\bin\fsck.cramfs.exe
+2025-04-12 15:31:50,381 - WARNING - Permission denied for file: C:\msys64\usr\bin\fsck.cramfs.exe
+2025-04-12 15:31:56,374 - WARNING - Permission denied for file: C:\msys64\usr\bin\mkfs.bfs.exe
+2025-04-12 15:31:56,833 - WARNING - Permission denied for file: C:\msys64\usr\bin\mkfs.minix.exe
+2025-04-12 15:31:57,137 - WARNING - Permission denied for file: C:\msys64\usr\bin\mkswap.exe
+2025-04-12 15:31:58,012 - WARNING - Permission denied for file: C:\msys64\usr\bin\mkfs.bfs.exe
+2025-04-12 15:31:58,322 - WARNING - Permission denied for file: C:\msys64\usr\bin\mkfs.minix.exe
+2025-04-12 15:31:58,335 - WARNING - Permission denied for file: C:\msys64\usr\bin\mkswap.exe
+2025-04-12 15:31:59,148 - WARNING - Permission denied for file: C:\msys64\usr\bin\msys-blkid-1.dll
+2025-04-12 15:31:59,148 - WARNING - Permission denied for file: C:\msys64\usr\bin\msys-blkid-1.dll
+2025-04-12 15:31:59,194 - WARNING - Permission denied for file: C:\msys64\usr\bin\msys-brotlicommon-1.dll
+2025-04-12 15:31:59,197 - WARNING - Permission denied for file: C:\msys64\usr\bin\msys-brotlicommon-1.dll
+2025-04-12 15:32:00,067 - WARNING - Permission denied for file: C:\msys64\usr\bin\msys-fdisk-1.dll
+2025-04-12 15:32:00,067 - WARNING - Permission denied for file: C:\msys64\usr\bin\msys-fdisk-1.dll
+2025-04-12 15:32:03,721 - WARNING - Permission denied for file: C:\msys64\usr\bin\msys-smartcols-1.dll
+2025-04-12 15:32:03,889 - WARNING - Permission denied for file: C:\msys64\usr\bin\msys-smartcols-1.dll
+2025-04-12 15:32:07,063 - WARNING - Permission denied for file: C:\msys64\usr\bin\pacman-conf.exe
+2025-04-12 15:32:07,072 - WARNING - Permission denied for file: C:\msys64\usr\bin\pacman-conf.exe
+2025-04-12 15:32:07,314 - WARNING - Permission denied for file: C:\msys64\usr\bin\pacman.exe
+2025-04-12 15:32:07,317 - WARNING - Permission denied for file: C:\msys64\usr\bin\pacman.exe
+2025-04-12 15:32:07,572 - WARNING - Permission denied for file: C:\msys64\usr\bin\pactree.exe
+2025-04-12 15:32:07,576 - WARNING - Permission denied for file: C:\msys64\usr\bin\pactree.exe
+2025-04-12 15:32:09,951 - WARNING - Permission denied for file: C:\msys64\usr\bin\sfdisk.exe
+2025-04-12 15:32:10,093 - WARNING - Permission denied for file: C:\msys64\usr\bin\sfdisk.exe
+2025-04-12 15:32:11,924 - WARNING - Permission denied for file: C:\msys64\usr\bin\testpkg.exe
+2025-04-12 15:32:11,946 - WARNING - Permission denied for file: C:\msys64\usr\bin\testpkg.exe
+2025-04-12 15:33:42,865 - WARNING - Permission denied for file: C:\msys64\usr\share\doc\bash\CHANGES
+2025-04-12 15:33:42,865 - WARNING - Permission denied for file: C:\msys64\usr\share\doc\bash\CHANGES
+2025-04-12 15:33:48,254 - WARNING - Permission denied for file: C:\msys64\usr\share\doc\xz\AUTHORS
+2025-04-12 15:33:48,254 - WARNING - Permission denied for file: C:\msys64\usr\share\doc\xz\AUTHORS
+2025-04-12 15:33:48,443 - WARNING - Permission denied for file: C:\msys64\usr\share\doc\xz\NEWS
+2025-04-12 15:33:48,443 - WARNING - Permission denied for file: C:\msys64\usr\share\doc\xz\NEWS
+2025-04-12 15:34:03,564 - WARNING - Permission denied for file: C:\msys64\usr\share\locale\fr\LC_MESSAGES\coreutils.mo
+2025-04-12 15:34:04,017 - WARNING - Permission denied for file: C:\msys64\usr\share\locale\fr\LC_MESSAGES\wget.mo
+2025-04-12 15:34:04,057 - WARNING - Permission denied for file: C:\msys64\usr\share\locale\fr\LC_TIME\coreutils.mo
+2025-04-12 15:34:08,372 - WARNING - Permission denied for file: C:\msys64\usr\share\locale\fr\LC_MESSAGES\coreutils.mo
+2025-04-12 15:34:08,396 - WARNING - Permission denied for file: C:\msys64\usr\share\locale\fr\LC_MESSAGES\wget.mo
+2025-04-12 15:34:08,409 - WARNING - Permission denied for file: C:\msys64\usr\share\locale\fr\LC_TIME\coreutils.mo
+2025-04-12 15:35:17,292 - WARNING - Permission denied for file: C:\msys64\usr\share\perl5\core_perl\CPAN.pm
+2025-04-12 15:35:17,361 - WARNING - Permission denied for file: C:\msys64\usr\share\perl5\core_perl\CPAN.pm
+2025-04-12 15:35:18,688 - WARNING - Permission denied for file: C:\msys64\usr\share\perl5\core_perl\warnings.pm
+2025-04-12 15:35:18,783 - WARNING - Permission denied for file: C:\msys64\usr\share\perl5\core_perl\warnings.pm
+2025-04-12 15:35:21,035 - WARNING - Permission denied for file: C:\msys64\usr\share\perl5\core_perl\ExtUtils\Mksymlists.pm
+2025-04-12 15:35:21,813 - WARNING - Permission denied for file: C:\msys64\usr\share\perl5\core_perl\ExtUtils\Mksymlists.pm
+2025-04-12 15:35:22,309 - ERROR - Failed to quarantine file (file in use): C:\BackUP\C\Root\New folder\New folder\Program\rebase.log
+2025-04-12 15:35:50,962 - ERROR - Failed to quarantine file C:\Git_Project\Web-project\.git\hooks\pre-commit.sample: [WinError 32] The process cannot access the file because it is being used by another process: 'C:\\Git_Project\\Web-project\\.git\\hooks\\pre-commit.sample' -> 'C:\\Users\\pande\\OneDrive - MSFT\\Desktop\\1st internship report\\quarantine\\pre-commit.sample'
+2025-04-12 15:36:02,008 - ERROR - Failed to quarantine file (file in use): C:\BackUP\C\Root\New folder\New folder\Program\WormGear.dll
+2025-04-12 15:37:02,448 - WARNING - Permission denied for file: C:\New folder (2)\DSA-LAB\.git\hooks\pre-commit.sample
+2025-04-12 15:37:02,454 - WARNING - Permission denied for file: C:\New folder (2)\DSA-LAB\.git\hooks\pre-commit.sample
+2025-04-12 15:37:03,189 - WARNING - Permission denied for file: C:\New folder (2)\DSA-LAB-1\.git\hooks\pre-commit.sample
+2025-04-12 15:37:03,189 - WARNING - Permission denied for file: C:\New folder (2)\DSA-LAB-1\.git\hooks\pre-commit.sample
+2025-04-12 15:37:16,840 - ERROR - Failed to quarantine file C:\msys64\ucrt64\include\zstd.h: [WinError 32] The process cannot access the file because it is being used by another process: 'C:\\msys64\\ucrt64\\include\\zstd.h' -> 'C:\\Users\\pande\\OneDrive - MSFT\\Desktop\\1st internship report\\quarantine\\zstd.h'
+2025-04-12 15:37:24,671 - ERROR - Failed to quarantine file C:\msys64\ucrt64\include\c++\14.1.0\bits\deque.tcc: [WinError 32] The process cannot access the file because it is being used by another process: 'C:\\msys64\\ucrt64\\include\\c++\\14.1.0\\bits\\deque.tcc' -> 'C:\\Users\\pande\\OneDrive - MSFT\\Desktop\\1st internship report\\quarantine\\deque.tcc'
+2025-04-12 15:37:31,825 - WARNING - Permission denied for file: C:\oraclexe\app\oracle\oradata\XE\SYSTEM.DBF
+2025-04-12 15:37:32,106 - WARNING - Permission denied for file: C:\oraclexe\app\oracle\oradata\XE\SYSTEM.DBF
+2025-04-12 15:37:32,948 - WARNING - Permission denied for file: C:\oraclexe\app\oracle\oradata\XE\SYSTEM.DBF
+2025-04-12 15:37:33,107 - WARNING - Permission denied for file: C:\oraclexe\app\oracle\oradata\XE\SYSTEM.DBF
+2025-04-12 15:37:50,479 - ERROR - Failed to quarantine file C:\msys64\ucrt64\include\isl\ast_build.h: [WinError 32] The process cannot access the file because it is being used by another process: 'C:\\msys64\\ucrt64\\include\\isl\\ast_build.h' -> 'C:\\Users\\pande\\OneDrive - MSFT\\Desktop\\1st internship report\\quarantine\\ast_build.h'
+2025-04-12 15:37:53,061 - WARNING - Permission denied for file: C:\oraclexe\app\oracle\product\11.2.0\server\bin\oracle.exe
+2025-04-12 15:37:53,191 - WARNING - Permission denied for file: C:\oraclexe\app\oracle\product\11.2.0\server\bin\oracle.exe
+2025-04-12 15:38:03,608 - WARNING - Permission denied for file: C:\oraclexe\app\oracle\product\11.2.0\server\bin\unzip.exe
+2025-04-12 15:38:03,745 - WARNING - Permission denied for file: C:\oraclexe\app\oracle\product\11.2.0\server\bin\unzip.exe
+2025-04-12 15:38:13,201 - ERROR - Failed to quarantine file C:\msys64\ucrt64\lib\libisl.a: [WinError 32] The process cannot access the file because it is being used by another process: 'C:\\msys64\\ucrt64\\lib\\libisl.a' -> 'C:\\Users\\pande\\OneDrive - MSFT\\Desktop\\1st internship report\\quarantine\\libisl.a'
+2025-04-12 15:38:13,309 - ERROR - Failed to quarantine file C:\msys64\ucrt64\lib\libisl.dll.a: [WinError 32] The process cannot access the file because it is being used by another process: 'C:\\msys64\\ucrt64\\lib\\libisl.dll.a' -> 'C:\\Users\\pande\\OneDrive - MSFT\\Desktop\\1st internship report\\quarantine\\libisl.dll.a'
+2025-04-12 15:38:57,574 - WARNING - Permission denied for file: C:\oraclexe\app\oracle\product\11.2.0\server\rdbms\admin\dbmscapi.sql
+2025-04-12 15:38:57,575 - WARNING - Permission denied for file: C:\oraclexe\app\oracle\product\11.2.0\server\rdbms\admin\dbmscapi.sql
+2025-04-12 15:38:59,672 - ERROR - Failed to quarantine file C:\msys64\ucrt64\share\locale\fr\LC_MESSAGES\binutils.mo: [WinError 32] The process cannot access the file because it is being used by another process: 'C:\\msys64\\ucrt64\\share\\locale\\fr\\LC_MESSAGES\\binutils.mo' -> 'C:\\Users\\pande\\OneDrive - MSFT\\Desktop\\1st internship report\\quarantine\\binutils.mo'
+2025-04-12 15:38:59,702 - ERROR - Failed to quarantine file C:\msys64\ucrt64\share\locale\fr\LC_MESSAGES\gas.mo: [WinError 32] The process cannot access the file because it is being used by another process: 'C:\\msys64\\ucrt64\\share\\locale\\fr\\LC_MESSAGES\\gas.mo' -> 'C:\\Users\\pande\\OneDrive - MSFT\\Desktop\\1st internship report\\quarantine\\gas.mo'
+2025-04-12 15:38:59,787 - ERROR - Failed to quarantine file C:\msys64\ucrt64\share\locale\fr\LC_MESSAGES\ld.mo: [WinError 32] The process cannot access the file because it is being used by another process: 'C:\\msys64\\ucrt64\\share\\locale\\fr\\LC_MESSAGES\\ld.mo' -> 'C:\\Users\\pande\\OneDrive - MSFT\\Desktop\\1st internship report\\quarantine\\ld.mo'
+2025-04-12 15:38:59,913 - WARNING - Permission denied for file: C:\oraclexe\app\oracle\product\11.2.0\server\rdbms\admin\dbmspexp.sql
+2025-04-12 15:39:00,030 - WARNING - Permission denied for file: C:\oraclexe\app\oracle\product\11.2.0\server\rdbms\admin\dbmspexp.sql
+2025-04-12 15:39:05,140 - WARNING - Permission denied for file: C:\oraclexe\app\oracle\product\11.2.0\server\rdbms\admin\oracle.sym
+2025-04-12 15:39:05,157 - WARNING - Permission denied for file: C:\oraclexe\app\oracle\product\11.2.0\server\rdbms\admin\oracle.sym
+2025-04-12 15:39:09,859 - ERROR - Failed to quarantine file C:\msys64\usr\bin\cygcheck.exe: [WinError 32] The process cannot access the file because it is being used by another process: 'C:\\msys64\\usr\\bin\\cygcheck.exe' -> 'C:\\Users\\pande\\OneDrive - MSFT\\Desktop\\1st internship report\\quarantine\\cygcheck.exe'
+2025-04-12 15:39:14,899 - ERROR - Failed to quarantine file C:\msys64\usr\bin\fdisk.exe: [WinError 32] The process cannot access the file because it is being used by another process: 'C:\\msys64\\usr\\bin\\fdisk.exe' -> 'C:\\Users\\pande\\OneDrive - MSFT\\Desktop\\1st internship report\\quarantine\\fdisk.exe'
+2025-04-12 15:39:15,362 - ERROR - Failed to quarantine file C:\msys64\usr\bin\fsck.cramfs.exe: [WinError 32] The process cannot access the file because it is being used by another process: 'C:\\msys64\\usr\\bin\\fsck.cramfs.exe' -> 'C:\\Users\\pande\\OneDrive - MSFT\\Desktop\\1st internship report\\quarantine\\fsck.cramfs.exe'
+2025-04-12 15:39:23,424 - ERROR - Failed to quarantine file C:\msys64\usr\bin\mkfs.bfs.exe: [WinError 32] The process cannot access the file because it is being used by another process: 'C:\\msys64\\usr\\bin\\mkfs.bfs.exe' -> 'C:\\Users\\pande\\OneDrive - MSFT\\Desktop\\1st internship report\\quarantine\\mkfs.bfs.exe'
+2025-04-12 15:39:23,537 - ERROR - Failed to quarantine file C:\msys64\usr\bin\mkfs.minix.exe: [WinError 32] The process cannot access the file because it is being used by another process: 'C:\\msys64\\usr\\bin\\mkfs.minix.exe' -> 'C:\\Users\\pande\\OneDrive - MSFT\\Desktop\\1st internship report\\quarantine\\mkfs.minix.exe'
+2025-04-12 15:39:23,775 - ERROR - Failed to quarantine file C:\msys64\usr\bin\mkswap.exe: [WinError 32] The process cannot access the file because it is being used by another process: 'C:\\msys64\\usr\\bin\\mkswap.exe' -> 'C:\\Users\\pande\\OneDrive - MSFT\\Desktop\\1st internship report\\quarantine\\mkswap.exe'
+2025-04-12 15:39:26,312 - ERROR - Failed to quarantine file C:\msys64\usr\bin\msys-blkid-1.dll: [WinError 32] The process cannot access the file because it is being used by another process: 'C:\\msys64\\usr\\bin\\msys-blkid-1.dll' -> 'C:\\Users\\pande\\OneDrive - MSFT\\Desktop\\1st internship report\\quarantine\\msys-blkid-1.dll'
+2025-04-12 15:39:26,361 - ERROR - Failed to quarantine file C:\msys64\usr\bin\msys-brotlicommon-1.dll: [WinError 32] The process cannot access the file because it is being used by another process: 'C:\\msys64\\usr\\bin\\msys-brotlicommon-1.dll' -> 'C:\\Users\\pande\\OneDrive - MSFT\\Desktop\\1st internship report\\quarantine\\msys-brotlicommon-1.dll'
+2025-04-12 15:39:26,671 - WARNING - Permission denied for file: C:\oraclexe\app\oracle\product\11.2.0\server\rdbms\admin\utlrcmp.sql
+2025-04-12 15:39:26,671 - WARNING - Permission denied for file: C:\oraclexe\app\oracle\product\11.2.0\server\rdbms\admin\utlrcmp.sql
+2025-04-12 15:39:27,597 - ERROR - Failed to quarantine file C:\msys64\usr\bin\msys-fdisk-1.dll: [WinError 32] The process cannot access the file because it is being used by another process: 'C:\\msys64\\usr\\bin\\msys-fdisk-1.dll' -> 'C:\\Users\\pande\\OneDrive - MSFT\\Desktop\\1st internship report\\quarantine\\msys-fdisk-1.dll'
+2025-04-12 15:39:34,981 - ERROR - Failed to quarantine file C:\msys64\usr\bin\msys-smartcols-1.dll: [WinError 32] The process cannot access the file because it is being used by another process: 'C:\\msys64\\usr\\bin\\msys-smartcols-1.dll' -> 'C:\\Users\\pande\\OneDrive - MSFT\\Desktop\\1st internship report\\quarantine\\msys-smartcols-1.dll'
+2025-04-12 15:39:44,099 - ERROR - Failed to quarantine file C:\msys64\usr\bin\sfdisk.exe: [WinError 32] The process cannot access the file because it is being used by another process: 'C:\\msys64\\usr\\bin\\sfdisk.exe' -> 'C:\\Users\\pande\\OneDrive - MSFT\\Desktop\\1st internship report\\quarantine\\sfdisk.exe'
+2025-04-12 15:39:48,081 - WARNING - Permission denied for file: C:\Program Files\Adobe\Acrobat DC\Acrobat\AcroCEF\libcef.dll
+2025-04-12 15:39:48,847 - WARNING - Permission denied for file: C:\Program Files\Adobe\Acrobat DC\Acrobat\AcroCEF\libcef.dll
+2025-04-12 15:39:56,464 - WARNING - Permission denied for file: C:\Program Files\Adobe\Acrobat DC\Acrobat\acrocef_1\libcef.dll
+2025-04-12 15:39:56,908 - WARNING - Permission denied for file: C:\Program Files\Adobe\Acrobat DC\Acrobat\acrocef_1\libcef.dll
+2025-04-12 15:40:07,322 - WARNING - Permission denied for file: C:\Program Files\Adobe\Acrobat DC\Acrobat\Legal\fr_FR\license.html
+2025-04-12 15:40:07,331 - WARNING - Permission denied for file: C:\Program Files\Adobe\Acrobat DC\Acrobat\Legal\fr_FR\license.html
+2025-04-12 15:40:07,429 - WARNING - Permission denied for file: C:\Program Files\Adobe\Acrobat DC\Acrobat\Legal\fr_MA\license.html
+2025-04-12 15:40:07,437 - WARNING - Permission denied for file: C:\Program Files\Adobe\Acrobat DC\Acrobat\Legal\fr_MA\license.html
+2025-04-12 15:40:16,145 - WARNING - Permission denied for file: C:\Program Files\Adobe\Acrobat DC\Acrobat\RdrTools\models\7\vocabulary_10k.txt
+2025-04-12 15:40:16,147 - WARNING - Permission denied for file: C:\Program Files\Adobe\Acrobat DC\Acrobat\RdrTools\models\7\vocabulary_10k.txt
+2025-04-12 15:41:18,984 - ERROR - Failed to quarantine file C:\msys64\usr\share\doc\bash\CHANGES: [WinError 32] The process cannot access the file because it is being used by another process: 'C:\\msys64\\usr\\share\\doc\\bash\\CHANGES' -> 'C:\\Users\\pande\\OneDrive - MSFT\\Desktop\\1st internship report\\quarantine\\CHANGES'
+2025-04-12 15:41:25,153 - ERROR - Failed to quarantine file C:\msys64\usr\share\doc\xz\AUTHORS: [WinError 32] The process cannot access the file because it is being used by another process: 'C:\\msys64\\usr\\share\\doc\\xz\\AUTHORS' -> 'C:\\Users\\pande\\OneDrive - MSFT\\Desktop\\1st internship report\\quarantine\\AUTHORS'
+2025-04-12 15:41:25,380 - ERROR - Failed to quarantine file C:\msys64\usr\share\doc\xz\NEWS: [WinError 32] The process cannot access the file because it is being used by another process: 'C:\\msys64\\usr\\share\\doc\\xz\\NEWS' -> 'C:\\Users\\pande\\OneDrive - MSFT\\Desktop\\1st internship report\\quarantine\\NEWS'
+2025-04-12 15:41:38,668 - ERROR - Failed to quarantine file C:\msys64\usr\share\locale\fr\LC_MESSAGES\coreutils.mo: [WinError 32] The process cannot access the file because it is being used by another process: 'C:\\msys64\\usr\\share\\locale\\fr\\LC_MESSAGES\\coreutils.mo' -> 'C:\\Users\\pande\\OneDrive - MSFT\\Desktop\\1st internship report\\quarantine\\coreutils.mo'
+2025-04-12 15:41:39,010 - ERROR - Failed to quarantine file C:\msys64\usr\share\locale\fr\LC_MESSAGES\wget.mo: [WinError 32] The process cannot access the file because it is being used by another process: 'C:\\msys64\\usr\\share\\locale\\fr\\LC_MESSAGES\\wget.mo' -> 'C:\\Users\\pande\\OneDrive - MSFT\\Desktop\\1st internship report\\quarantine\\wget.mo'
+2025-04-12 15:41:39,058 - ERROR - Failed to quarantine file C:\msys64\usr\share\locale\fr\LC_TIME\coreutils.mo: [WinError 32] The process cannot access the file because it is being used by another process: 'C:\\msys64\\usr\\share\\locale\\fr\\LC_TIME\\coreutils.mo' -> 'C:\\Users\\pande\\OneDrive - MSFT\\Desktop\\1st internship report\\quarantine\\coreutils.mo'
+2025-04-12 15:41:52,123 - WARNING - Permission denied for file: C:\Program Files\Android\jdk\jdk-8.0.302.8-hotspot\jdk8u302-b08\THIRD_PARTY_README
+2025-04-12 15:41:52,384 - WARNING - Permission denied for file: C:\Program Files\Android\jdk\jdk-8.0.302.8-hotspot\jdk8u302-b08\jre\THIRD_PARTY_README
+2025-04-12 15:41:52,510 - WARNING - Permission denied for file: C:\Program Files\Android\jdk\jdk-8.0.302.8-hotspot\jdk8u302-b08\THIRD_PARTY_README
+2025-04-12 15:41:52,566 - WARNING - Permission denied for file: C:\Program Files\Android\jdk\jdk-8.0.302.8-hotspot\jdk8u302-b08\jre\THIRD_PARTY_README
+2025-04-12 15:41:53,601 - WARNING - Permission denied for file: C:\Program Files\Android\jdk\jdk-8.0.302.8-hotspot\jdk8u302-b08\jre\lib\rt.jar
+2025-04-12 15:41:53,664 - WARNING - Permission denied for file: C:\Program Files\Android\jdk\jdk-8.0.302.8-hotspot\jdk8u302-b08\jre\lib\rt.jar
+2025-04-12 15:42:02,561 - WARNING - Permission denied for file: C:\Program Files\BraveSoftware\Brave-Browser\Application\135.1.77.97\chrome.dll
+2025-04-12 15:42:02,697 - WARNING - Permission denied for file: C:\Program Files\BraveSoftware\Brave-Browser\Application\135.1.77.97\chrome.dll
+2025-04-12 15:42:07,848 - WARNING - Permission denied for file: C:\Program Files\BraveSoftware\Brave-Browser\Application\135.1.77.97\Installer\chrome.7z
+2025-04-12 15:42:08,690 - WARNING - Permission denied for file: C:\Program Files\BraveSoftware\Brave-Browser\Application\135.1.77.97\Installer\chrome.7z
+2025-04-12 15:42:09,258 - WARNING - Permission denied for file: C:\Program Files\BraveSoftware\Brave-Browser\Application\135.1.77.97\Locales\fr.pak
+2025-04-12 15:42:09,258 - WARNING - Permission denied for file: C:\Program Files\BraveSoftware\Brave-Browser\Application\135.1.77.97\Locales\fr.pak
+2025-04-12 15:42:15,861 - WARNING - Permission denied for file: C:\Program Files\Common Files\Adobe\Acrobat\DC\Linguistics\Providers\Plugins2\AdobeHunspellPlugin\Dictionaries\en_CA\en_CA.dic
+2025-04-12 15:42:15,867 - WARNING - Permission denied for file: C:\Program Files\Common Files\Adobe\Acrobat\DC\Linguistics\Providers\Plugins2\AdobeHunspellPlugin\Dictionaries\en_CA\en_CA.dic
+2025-04-12 15:42:15,867 - WARNING - Permission denied for file: C:\Program Files\Common Files\Adobe\Acrobat\DC\Linguistics\Providers\Plugins2\AdobeHunspellPlugin\Dictionaries\en_CA\en_CA.dic
+2025-04-12 15:42:15,897 - WARNING - Permission denied for file: C:\Program Files\Common Files\Adobe\Acrobat\DC\Linguistics\Providers\Plugins2\AdobeHunspellPlugin\Dictionaries\en_CA\hyph_en_CA.dic
+2025-04-12 15:42:15,900 - WARNING - Permission denied for file: C:\Program Files\Common Files\Adobe\Acrobat\DC\Linguistics\Providers\Plugins2\AdobeHunspellPlugin\Dictionaries\en_CA\hyph_en_CA.dic
+2025-04-12 15:42:16,202 - WARNING - Permission denied for file: C:\Program Files\Common Files\Adobe\Acrobat\DC\Linguistics\Providers\Plugins2\AdobeHunspellPlugin\Dictionaries\en_GB\en_GB.dic
+2025-04-12 15:42:16,208 - WARNING - Permission denied for file: C:\Program Files\Common Files\Adobe\Acrobat\DC\Linguistics\Providers\Plugins2\AdobeHunspellPlugin\Dictionaries\en_GB\en_GB.dic
+2025-04-12 15:42:16,214 - WARNING - Permission denied for file: C:\Program Files\Common Files\Adobe\Acrobat\DC\Linguistics\Providers\Plugins2\AdobeHunspellPlugin\Dictionaries\en_GB\en_GB.dic
+2025-04-12 15:42:16,214 - WARNING - Permission denied for file: C:\Program Files\Common Files\Adobe\Acrobat\DC\Linguistics\Providers\Plugins2\AdobeHunspellPlugin\Dictionaries\en_GB\en_GB.dic
+2025-04-12 15:42:16,217 - WARNING - Permission denied for file: C:\Program Files\Common Files\Adobe\Acrobat\DC\Linguistics\Providers\Plugins2\AdobeHunspellPlugin\Dictionaries\en_GB\en_GB.dic
+2025-04-12 15:42:16,218 - WARNING - Permission denied for file: C:\Program Files\Common Files\Adobe\Acrobat\DC\Linguistics\Providers\Plugins2\AdobeHunspellPlugin\Dictionaries\en_GB\en_GB.dic
+2025-04-12 15:42:16,237 - WARNING - Permission denied for file: C:\Program Files\Common Files\Adobe\Acrobat\DC\Linguistics\Providers\Plugins2\AdobeHunspellPlugin\Dictionaries\en_GB\en_GB.dic
+2025-04-12 15:42:16,245 - WARNING - Permission denied for file: C:\Program Files\Common Files\Adobe\Acrobat\DC\Linguistics\Providers\Plugins2\AdobeHunspellPlugin\Dictionaries\en_GB\en_GB.dic
+2025-04-12 15:42:16,439 - WARNING - Permission denied for file: C:\Program Files\Common Files\Adobe\Acrobat\DC\Linguistics\Providers\Plugins2\AdobeHunspellPlugin\Dictionaries\en_US\en_US.dic
+2025-04-12 15:42:16,439 - WARNING - Permission denied for file: C:\Program Files\Common Files\Adobe\Acrobat\DC\Linguistics\Providers\Plugins2\AdobeHunspellPlugin\Dictionaries\en_US\en_US.dic
+2025-04-12 15:42:16,442 - WARNING - Permission denied for file: C:\Program Files\Common Files\Adobe\Acrobat\DC\Linguistics\Providers\Plugins2\AdobeHunspellPlugin\Dictionaries\en_US\en_US.dic
+2025-04-12 15:42:16,444 - WARNING - Permission denied for file: C:\Program Files\Common Files\Adobe\Acrobat\DC\Linguistics\Providers\Plugins2\AdobeHunspellPlugin\Dictionaries\en_US\en_US.dic
+2025-04-12 15:42:16,444 - WARNING - Permission denied for file: C:\Program Files\Common Files\Adobe\Acrobat\DC\Linguistics\Providers\Plugins2\AdobeHunspellPlugin\Dictionaries\en_US\en_US.dic
+2025-04-12 15:42:16,447 - WARNING - Permission denied for file: C:\Program Files\Common Files\Adobe\Acrobat\DC\Linguistics\Providers\Plugins2\AdobeHunspellPlugin\Dictionaries\en_US\en_US.dic
+2025-04-12 15:42:16,448 - WARNING - Permission denied for file: C:\Program Files\Common Files\Adobe\Acrobat\DC\Linguistics\Providers\Plugins2\AdobeHunspellPlugin\Dictionaries\en_US\en_US.dic
+2025-04-12 15:42:16,451 - WARNING - Permission denied for file: C:\Program Files\Common Files\Adobe\Acrobat\DC\Linguistics\Providers\Plugins2\AdobeHunspellPlugin\Dictionaries\en_US\en_US.dic
+2025-04-12 15:42:17,343 - WARNING - Permission denied for file: C:\Program Files\Common Files\Adobe\Acrobat\Setup\{AC76BA86-1033-FF00-7760-BC15014EA700}\AcroRdrDCx64Upd2300120143_MUI.msp
+2025-04-12 15:42:17,523 - WARNING - Permission denied for file: C:\Program Files\Common Files\Adobe\Acrobat\Setup\{AC76BA86-1033-FF00-7760-BC15014EA700}\AcroRdrDCx64Upd2300120143_MUI.msp
+2025-04-12 15:42:21,241 - WARNING - Permission denied for file: C:\Program Files\Common Files\Adobe\Acrobat\Setup\{AC76BA86-1033-FF00-7760-BC15014EA700}\Core.cab
+2025-04-12 15:42:21,346 - WARNING - Permission denied for file: C:\Program Files\Common Files\Adobe\Acrobat\Setup\{AC76BA86-1033-FF00-7760-BC15014EA700}\Core.cab
+2025-04-12 15:42:21,506 - WARNING - Permission denied for file: C:\Program Files\Common Files\Adobe\Acrobat\Setup\{AC76BA86-1033-FF00-7760-BC15014EA700}\Core.cab
+2025-04-12 15:42:21,540 - WARNING - Permission denied for file: C:\Program Files\Common Files\Adobe\Acrobat\Setup\{AC76BA86-1033-FF00-7760-BC15014EA700}\Core.cab
+2025-04-12 15:42:21,711 - WARNING - Permission denied for file: C:\Program Files\Common Files\Adobe\Acrobat\Setup\{AC76BA86-1033-FF00-7760-BC15014EA700}\Core.cab
+2025-04-12 15:42:21,758 - WARNING - Permission denied for file: C:\Program Files\Common Files\Adobe\Acrobat\Setup\{AC76BA86-1033-FF00-7760-BC15014EA700}\Core.cab
+2025-04-12 15:42:22,225 - WARNING - Permission denied for file: C:\Program Files\Common Files\Adobe\Acrobat\Setup\{AC76BA86-1033-FF00-7760-BC15014EA700}\Core.cab
+2025-04-12 15:42:22,404 - WARNING - Permission denied for file: C:\Program Files\Common Files\Adobe\Acrobat\Setup\{AC76BA86-1033-FF00-7760-BC15014EA700}\Core.cab
+2025-04-12 15:42:23,542 - WARNING - Permission denied for file: C:\Program Files\Common Files\Adobe\Acrobat\Setup\{AC76BA86-1033-FF00-7760-BC15014EA700}\Core.cab
+2025-04-12 15:42:23,672 - WARNING - Permission denied for file: C:\Program Files\Common Files\Adobe\Acrobat\Setup\{AC76BA86-1033-FF00-7760-BC15014EA700}\Core.cab
+2025-04-12 15:42:23,831 - WARNING - Permission denied for file: C:\Program Files\Common Files\Adobe\Acrobat\Setup\{AC76BA86-1033-FF00-7760-BC15014EA700}\Core.cab
+2025-04-12 15:42:24,076 - WARNING - Permission denied for file: C:\Program Files\Common Files\Adobe\Acrobat\Setup\{AC76BA86-1033-FF00-7760-BC15014EA700}\Core.cab
+2025-04-12 15:42:24,785 - WARNING - Permission denied for file: C:\Program Files\Common Files\Adobe\Acrobat\Setup\{AC76BA86-1033-FF00-7760-BC15014EA700}\Languages.cab
+2025-04-12 15:42:24,803 - WARNING - Permission denied for file: C:\Program Files\Common Files\Adobe\Acrobat\Setup\{AC76BA86-1033-FF00-7760-BC15014EA700}\Languages.cab
+2025-04-12 15:42:24,870 - WARNING - Permission denied for file: C:\Program Files\Common Files\Adobe\Acrobat\Setup\{AC76BA86-1033-FF00-7760-BC15014EA700}\Languages.cab
+2025-04-12 15:42:24,887 - WARNING - Permission denied for file: C:\Program Files\Common Files\Adobe\Acrobat\Setup\{AC76BA86-1033-FF00-7760-BC15014EA700}\Languages.cab
+2025-04-12 15:42:24,954 - WARNING - Permission denied for file: C:\Program Files\Common Files\Adobe\Acrobat\Setup\{AC76BA86-1033-FF00-7760-BC15014EA700}\Languages.cab
+2025-04-12 15:42:24,966 - WARNING - Permission denied for file: C:\Program Files\Common Files\Adobe\Acrobat\Setup\{AC76BA86-1033-FF00-7760-BC15014EA700}\Languages.cab
+2025-04-12 15:42:25,676 - WARNING - Permission denied for file: C:\Program Files\Common Files\Adobe\Acrobat\Setup\{AC76BA86-1033-FF00-7760-BC15014EA700}\Languages.cab
+2025-04-12 15:42:25,687 - WARNING - Permission denied for file: C:\Program Files\Common Files\Adobe\Acrobat\Setup\{AC76BA86-1033-FF00-7760-BC15014EA700}\Languages.cab
+2025-04-12 15:42:26,136 - WARNING - Permission denied for file: C:\Program Files\Common Files\Adobe\Acrobat\Setup\{AC76BA86-1033-FF00-7760-BC15014EA700}\Languages.cab
+2025-04-12 15:42:26,220 - WARNING - Permission denied for file: C:\Program Files\Common Files\Adobe\Acrobat\Setup\{AC76BA86-1033-FF00-7760-BC15014EA700}\Languages.cab
+2025-04-12 15:42:26,309 - WARNING - Permission denied for file: C:\Program Files\Common Files\Adobe\Acrobat\Setup\{AC76BA86-1033-FF00-7760-BC15014EA700}\Languages.cab
+2025-04-12 15:42:26,399 - WARNING - Permission denied for file: C:\Program Files\Common Files\Adobe\Acrobat\Setup\{AC76BA86-1033-FF00-7760-BC15014EA700}\Languages.cab
+2025-04-12 15:42:26,513 - WARNING - Permission denied for file: C:\Program Files\Common Files\Adobe\Acrobat\Setup\{AC76BA86-1033-FF00-7760-BC15014EA700}\Languages.cab
+2025-04-12 15:42:26,727 - WARNING - Permission denied for file: C:\Program Files\Common Files\Adobe\Acrobat\Setup\{AC76BA86-1033-FF00-7760-BC15014EA700}\Languages.cab
+2025-04-12 15:42:27,547 - WARNING - Permission denied for file: C:\Program Files\Common Files\Adobe\Acrobat\Setup\{AC76BA86-1033-FF00-7760-BC15014EA700}\Transforms\1036.mst
+2025-04-12 15:42:28,483 - WARNING - Permission denied for file: C:\Program Files\Common Files\Adobe\Acrobat\Setup\{AC76BA86-1033-FF00-7760-BC15014EA700}\Transforms\1036.mst
+2025-04-12 15:42:29,628 - WARNING - Permission denied for file: C:\Program Files\Common Files\Adobe\Acrobat\Setup\{AC76BA86-1033-FF00-7760-BC15014EA700}\Transforms\6156.mst
+2025-04-12 15:42:29,752 - WARNING - Permission denied for file: C:\Program Files\Common Files\Adobe\Acrobat\Setup\{AC76BA86-1033-FF00-7760-BC15014EA700}\Transforms\6156.mst
+2025-04-12 15:42:30,879 - WARNING - Permission denied for file: C:\Program Files\Common Files\Adobe\UXP\extensions\com.adobe.ccx.start-6.8.0\cc-photos-importer-uxp\lr-importer-uxp\fr-CA.js
+2025-04-12 15:42:30,930 - WARNING - Permission denied for file: C:\Program Files\Common Files\Adobe\UXP\extensions\com.adobe.ccx.start-6.8.0\cc-photos-importer-uxp\lr-importer-uxp\fr-FR.js
+2025-04-12 15:42:32,382 - WARNING - Permission denied for file: C:\Program Files\Common Files\Adobe\UXP\extensions\com.adobe.ccx.start-6.8.0\cc-photos-importer-uxp\lr-importer-uxp\fr-CA.js
+2025-04-12 15:42:32,554 - WARNING - Permission denied for file: C:\Program Files\Common Files\Adobe\UXP\extensions\com.adobe.ccx.start-6.8.0\cc-photos-importer-uxp\lr-importer-uxp\fr-FR.js
+2025-04-12 15:42:41,937 - ERROR - Failed to quarantine file C:\msys64\usr\share\perl5\core_perl\CPAN.pm: [WinError 32] The process cannot access the file because it is being used by another process: 'C:\\msys64\\usr\\share\\perl5\\core_perl\\CPAN.pm' -> 'C:\\Users\\pande\\OneDrive - MSFT\\Desktop\\1st internship report\\quarantine\\CPAN.pm'
+2025-04-12 15:42:42,606 - WARNING - Permission denied for file: C:\Program Files\Common Files\Adobe\UXP\extensions\com.adobe.ccx.start-7.2.0\cc-photos-importer-uxp\lr-importer-uxp\fr-CA.js
+2025-04-12 15:42:42,607 - WARNING - Permission denied for file: C:\Program Files\Common Files\Adobe\UXP\extensions\com.adobe.ccx.start-7.2.0\cc-photos-importer-uxp\lr-importer-uxp\fr-CA.js
+2025-04-12 15:42:42,688 - WARNING - Permission denied for file: C:\Program Files\Common Files\Adobe\UXP\extensions\com.adobe.ccx.start-7.2.0\cc-photos-importer-uxp\lr-importer-uxp\fr-FR.js
+2025-04-12 15:42:42,689 - WARNING - Permission denied for file: C:\Program Files\Common Files\Adobe\UXP\extensions\com.adobe.ccx.start-7.2.0\cc-photos-importer-uxp\lr-importer-uxp\fr-FR.js
+2025-04-12 15:42:43,002 - ERROR - Failed to quarantine file C:\msys64\usr\share\perl5\core_perl\warnings.pm: [WinError 32] The process cannot access the file because it is being used by another process: 'C:\\msys64\\usr\\share\\perl5\\core_perl\\warnings.pm' -> 'C:\\Users\\pande\\OneDrive - MSFT\\Desktop\\1st internship report\\quarantine\\warnings.pm'
+2025-04-12 15:42:45,910 - ERROR - Failed to quarantine file C:\msys64\usr\share\perl5\core_perl\ExtUtils\Mksymlists.pm: [WinError 32] The process cannot access the file because it is being used by another process: 'C:\\msys64\\usr\\share\\perl5\\core_perl\\ExtUtils\\Mksymlists.pm' -> 'C:\\Users\\pande\\OneDrive - MSFT\\Desktop\\1st internship report\\quarantine\\Mksymlists.pm'
+2025-04-12 15:43:17,543 - WARNING - Permission denied for file: C:\Program Files\Dell\SARemediation\agent\ManagedWMI.dll
+2025-04-12 15:43:18,133 - WARNING - Permission denied for file: C:\Program Files\Dell\SARemediation\agent\SDSSmartRepairTools.dll
+2025-04-12 15:43:18,231 - WARNING - Permission denied for file: C:\Program Files\Dell\SARemediation\agent\SDSSmartRepairTools.dll
+2025-04-12 15:43:19,230 - WARNING - Permission denied for file: C:\Program Files\Dell\SARemediation\agent\ManagedWMI.dll
+2025-04-12 15:43:20,313 - WARNING - Permission denied for file: C:\Program Files\Dell\SARemediation\agent\SDSSmartRepairTools.dll
+2025-04-12 15:43:20,492 - WARNING - Permission denied for file: C:\Program Files\Dell\SARemediation\agent\fr\DellSupportAssistControlPanel.resources.dll
+2025-04-12 15:43:20,549 - WARNING - Permission denied for file: C:\Program Files\Dell\SARemediation\agent\SDSSmartRepairTools.dll
+2025-04-12 15:43:20,802 - WARNING - Permission denied for file: C:\Program Files\Dell\SARemediation\agent\fr\DellSupportAssistControlPanel.resources.dll
+2025-04-12 15:43:21,688 - WARNING - Permission denied for file: C:\Program Files\Dell\SARemediation\agent\HelpDocs\fr\ControlPanelAppletHelpDocument.html
+2025-04-12 15:43:21,708 - WARNING - Permission denied for file: C:\Program Files\Dell\SARemediation\agent\HelpDocs\fr\ControlPanelAppletHelpDocument.html
+2025-04-12 15:43:21,752 - WARNING - Permission denied for file: C:\Program Files\Dell\SARemediation\agent\HelpDocs\fr\privacy.html
+2025-04-12 15:43:21,867 - WARNING - Permission denied for file: C:\Program Files\Dell\SARemediation\agent\HelpDocs\fr\privacy.html
+2025-04-12 15:43:24,386 - WARNING - Permission denied for file: C:\Program Files\Dell\SARemediation\audit\ManagedWMI.dll
+2025-04-12 15:43:24,386 - WARNING - Permission denied for file: C:\Program Files\Dell\SARemediation\audit\ManagedWMI.dll
+2025-04-12 15:43:25,639 - WARNING - Permission denied for file: C:\Program Files\Dell\SARemediation\plugin\ManagedWMI.dll
+2025-04-12 15:43:25,640 - WARNING - Permission denied for file: C:\Program Files\Dell\SARemediation\plugin\ManagedWMI.dll
+2025-04-12 15:43:28,976 - WARNING - Permission denied for file: C:\Program Files\Dell\SupportAssistAgent\bin\Dell.SupportAssist.Client.DomainModel.dll
+2025-04-12 15:43:31,773 - WARNING - Permission denied for file: C:\Program Files\Dell\SupportAssistAgent\bin\Dell.SupportAssist.Client.DomainModel.dll
+2025-04-12 15:43:37,137 - WARNING - Permission denied for file: C:\Program Files\Dell\SupportAssistAgent\bin\FrameworkAgents\Resource\fr-CA\Installer.json
+2025-04-12 15:43:37,184 - WARNING - Permission denied for file: C:\Program Files\Dell\SupportAssistAgent\bin\FrameworkAgents\Resource\fr-FR\Installer.json
+2025-04-12 15:43:38,563 - WARNING - Permission denied for file: C:\Program Files\Dell\SupportAssistAgent\bin\FrameworkAgents\Resource\fr-CA\Installer.json
+2025-04-12 15:43:38,582 - WARNING - Permission denied for file: C:\Program Files\Dell\SupportAssistAgent\bin\FrameworkAgents\Resource\fr-FR\Installer.json
+2025-04-12 15:43:40,081 - WARNING - Permission denied for file: C:\Program Files\Dell\SupportAssistAgent\bin\Resource\fr-CA\IDiag.json
+2025-04-12 15:43:40,177 - WARNING - Permission denied for file: C:\Program Files\Dell\SupportAssistAgent\bin\Resource\fr-FR\IDiag.json
+2025-04-12 15:43:41,146 - WARNING - Permission denied for file: C:\Program Files\Dell\SupportAssistAgent\bin\Resource\fr-CA\IDiag.json
+2025-04-12 15:43:41,149 - WARNING - Permission denied for file: C:\Program Files\Dell\SupportAssistAgent\bin\Resource\fr-FR\IDiag.json
+2025-04-17 21:07:43,902 - ERROR - Failed to quarantine file (file in use): C:\BackUP\C\Root\New folder\New folder\Program\rebase.log
+2025-04-17 21:08:04,719 - ERROR - Failed to quarantine file (file in use): C:\BackUP\C\Root\New folder\New folder\Program\WormGear.dll
+2025-04-17 21:08:38,656 - ERROR - Failed to quarantine file (file in use): C:\flutter\.git\hooks\pre-commit.sample
+2025-04-17 21:10:35,523 - INFO - Successfully quarantined file: C:\BackUP\C\Root\New folder\New folder\Program\WormGear.dll -> C:\Users\pande\OneDrive - MSFT\Desktop\1st internship report\quarantine\WormGear.dll
+2025-04-17 21:10:59,263 - INFO - Successfully quarantined file: C:\BackUP\C\Root\New folder\New folder\Program\rebase.log -> C:\Users\pande\OneDrive - MSFT\Desktop\1st internship report\quarantine\rebase.log
+2025-04-17 21:11:10,985 - INFO - Successfully quarantined file: C:\flutter\.git\hooks\pre-commit.sample -> C:\Users\pande\OneDrive - MSFT\Desktop\1st internship report\quarantine\pre-commit.sample
+2025-04-17 21:12:02,935 - ERROR - Failed to quarantine file (file in use): C:\flutter\bin\cache\dart-sdk\bin\resources\devtools\assets\NOTICES
+2025-04-17 21:12:31,654 - ERROR - Failed to quarantine file (file in use): C:\flutter\bin\cache\dart-sdk\lib\_internal\js_runtime\lib\js_number.dart
+2025-04-17 21:12:33,568 - WARNING - Skipping system file: C:\flutter\bin\cache\dart-sdk\lib\_internal\js_shared\lib\rti.dart
+2025-04-17 21:13:22,770 - WARNING - Skipping system file: C:\flutter\bin\mingit\mingw64\share\git-core\templates\hooks\pre-commit.sample
+2025-04-17 21:39:01,628 - ERROR - Failed to quarantine file (file in use): C:\flutter\bin\cache\dart-sdk\bin\resources\devtools\assets\NOTICES
+2025-04-17 21:39:05,262 - ERROR - Failed to quarantine file (file in use): C:\flutter\bin\cache\dart-sdk\lib\_internal\js_runtime\lib\js_number.dart
+2025-04-17 21:39:05,496 - WARNING - Skipping system file: C:\flutter\bin\cache\dart-sdk\lib\_internal\js_shared\lib\rti.dart
+2025-04-17 21:39:07,175 - WARNING - Skipping system file: C:\flutter\bin\mingit\mingw64\share\git-core\templates\hooks\pre-commit.sample
+2025-04-17 21:43:13,209 - ERROR - Failed to quarantine file (file in use): C:\Git_Project\Web-project\.git\hooks\pre-commit.sample
+2025-04-17 21:43:45,412 - ERROR - Failed to quarantine file (file in use): C:\msys64\ucrt64\include\zstd.h
+2025-04-17 21:43:50,693 - ERROR - Failed to quarantine file (file in use): C:\msys64\ucrt64\include\c++\14.1.0\bits\deque.tcc
+2025-04-17 21:44:05,081 - ERROR - Failed to quarantine file (file in use): C:\msys64\ucrt64\include\isl\ast_build.h
+2025-04-17 21:44:21,125 - ERROR - Failed to quarantine file (file in use): C:\msys64\ucrt64\lib\libisl.a
+2025-04-17 21:44:23,156 - ERROR - Failed to quarantine file (file in use): C:\msys64\ucrt64\lib\libisl.dll.a
+2025-04-17 21:44:49,674 - WARNING - Skipping system file: C:\msys64\ucrt64\share\locale\fr\LC_MESSAGES\binutils.mo
+2025-04-17 21:44:49,699 - WARNING - Skipping system file: C:\msys64\ucrt64\share\locale\fr\LC_MESSAGES\gas.mo
+2025-04-17 21:44:49,740 - WARNING - Skipping system file: C:\msys64\ucrt64\share\locale\fr\LC_MESSAGES\ld.mo
+2025-04-17 21:44:56,726 - ERROR - Failed to quarantine file (file in use): C:\msys64\usr\bin\cygcheck.exe
+2025-04-17 21:45:01,424 - ERROR - Failed to quarantine file (file in use): C:\msys64\usr\bin\fdisk.exe
+2025-04-17 21:45:03,683 - ERROR - Failed to quarantine file (file in use): C:\msys64\usr\bin\fsck.cramfs.exe
+2025-04-17 21:45:09,567 - ERROR - Failed to quarantine file (file in use): C:\msys64\usr\bin\mkfs.bfs.exe
+2025-04-17 21:45:11,710 - ERROR - Failed to quarantine file (file in use): C:\msys64\usr\bin\mkfs.minix.exe
+2025-04-17 21:45:14,412 - ERROR - Failed to quarantine file (file in use): C:\msys64\usr\bin\mkswap.exe
+2025-04-17 21:45:17,242 - ERROR - Failed to quarantine file (file in use): C:\msys64\usr\bin\msys-blkid-1.dll
+2025-04-17 21:45:19,359 - ERROR - Failed to quarantine file (file in use): C:\msys64\usr\bin\msys-brotlicommon-1.dll
+2025-04-17 21:45:22,299 - ERROR - Failed to quarantine file (file in use): C:\msys64\usr\bin\msys-fdisk-1.dll
+2025-04-17 21:45:26,299 - ERROR - Failed to quarantine file (file in use): C:\msys64\usr\bin\msys-smartcols-1.dll
+2025-04-17 21:45:31,556 - ERROR - Failed to quarantine file (file in use): C:\msys64\usr\bin\sfdisk.exe
+2025-04-17 21:46:22,083 - WARNING - Skipping system file: C:\msys64\usr\share\doc\bash\CHANGES
+2025-04-17 21:46:24,056 - WARNING - Skipping system file: C:\msys64\usr\share\doc\xz\AUTHORS
+2025-04-17 21:46:24,158 - WARNING - Skipping system file: C:\msys64\usr\share\doc\xz\NEWS
+2025-04-17 21:46:33,027 - WARNING - Skipping system file: C:\msys64\usr\share\locale\fr\LC_MESSAGES\coreutils.mo
+2025-04-17 21:46:33,260 - WARNING - Skipping system file: C:\msys64\usr\share\locale\fr\LC_MESSAGES\wget.mo
+2025-04-17 21:46:33,281 - WARNING - Skipping system file: C:\msys64\usr\share\locale\fr\LC_TIME\coreutils.mo
+2025-04-17 21:47:12,735 - WARNING - Skipping system file: C:\msys64\usr\share\perl5\core_perl\CPAN.pm
+2025-04-17 21:47:13,506 - WARNING - Skipping system file: C:\msys64\usr\share\perl5\core_perl\warnings.pm
+2025-04-17 21:47:15,076 - WARNING - Skipping system file: C:\msys64\usr\share\perl5\core_perl\ExtUtils\Mksymlists.pm
+2025-04-17 21:48:21,837 - ERROR - Failed to quarantine file (file in use): C:\New folder (2)\DSA-LAB\.git\hooks\pre-commit.sample
+2025-04-17 21:48:26,031 - ERROR - Failed to quarantine file (file in use): C:\New folder (2)\DSA-LAB-1\.git\hooks\pre-commit.sample
+2025-04-17 21:48:52,121 - ERROR - Failed to quarantine file (file in use): C:\oraclexe\app\oracle\product\11.2.0\server\bin\unzip.exe
+2025-04-17 21:49:23,777 - ERROR - Failed to quarantine file (file in use): C:\oraclexe\app\oracle\product\11.2.0\server\rdbms\admin\dbmscapi.sql
+2025-04-17 21:49:28,187 - ERROR - Failed to quarantine file (file in use): C:\oraclexe\app\oracle\product\11.2.0\server\rdbms\admin\dbmspexp.sql
+2025-04-17 21:49:43,835 - ERROR - Failed to quarantine file (file in use): C:\oraclexe\app\oracle\product\11.2.0\server\rdbms\admin\utlrcmp.sql
