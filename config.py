@@ -50,5 +50,6 @@ SUSPICIOUS_HTTP_PATTERNS = [
 INJECTION_DETECTION = bool(os.getenv('INJECTION_DETECTION', True))
 
 ALERT_EMAIL = 'pandeyritikkumar2001@gmail.com'
-ALERT_EMAIL = 'pandeyritikkumar68@gmail.com'
+ALERT_EMAIL = 'pandeyritikkumar68@gmail.com'  # User email for alerts
+ALERT_PHONE = '+91-6203157922'  # User phone number for alerts
 ALERT_EMAIL = ''
